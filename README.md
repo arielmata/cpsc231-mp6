@@ -1,4 +1,5 @@
-# Master Project 6
+# Mastery Project 6
+For this project, we had to create an applicaiton in Java that stores information about Professors, Students, and Staff.
 
 ## Identifying Information
 * Full Name: Ariel Gutierrez
