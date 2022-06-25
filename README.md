@@ -1,5 +1,5 @@
-# Mastery Project 6
-For this project, we had to create an applicaiton in Java that stores information about Professors, Students, and Staff.
+# Affiliate Database Application
+An application made with Java that allows the user to create, retrieve, or delete an affiliate record. The application makes use of a HashMap that maps Integer ID numbers to Affiliates.
 
 ## Identifying Information
 * Full Name: Ariel Gutierrez
